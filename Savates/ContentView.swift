@@ -32,7 +32,7 @@ struct ContentView: View {
                 HStack {
                     VStack(alignment: .leading, spacing: 10) {
                         HStack {
-                            Text("Summer Kit")
+                            Text("Summer Kit ")
                             .font(.headline)
                             Spacer()
                             Text("Price : $9.99")
