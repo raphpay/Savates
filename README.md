@@ -11,5 +11,5 @@ Savates is an app that let you choose your shoes, and this code is made by mysel
 
 Here are the screenshots for the project 
 
-<img src="screenshot/image1.png" width="200" >
+<img src="screenshots/image1.png" width="200" >
 <img src="screenshots/image2.png" width="200" >
